@@ -6,10 +6,8 @@
     "ideasSubmitted": 7,
     "mentoring": 4,
     "complexSolutionsImplemented": 5,
-    "totalPoints": 145,
     "tags": ["innovation", "backend", "cloud"],
-    "projects": ["Project Nimbus", "Data Integration"],
-    "modifiedBy": "admin01"
+    "projects": ["Project Nimbus", "Data Integration"]
   },
   {
     "name": "Priya Singh",
@@ -18,10 +16,8 @@
     "ideasSubmitted": 9,
     "mentoring": 5,
     "complexSolutionsImplemented": 7,
-    "totalPoints": 165,
     "tags": ["frontend", "UX", "React"],
-    "projects": ["Web Revamp", "Mobile App"],
-    "modifiedBy": "admin02"
+    "projects": ["Web Revamp", "Mobile App"]
   },
   {
     "name": "Amit Kumar",
@@ -30,10 +26,8 @@
     "ideasSubmitted": 4,
     "mentoring": 6,
     "complexSolutionsImplemented": 3,
-    "totalPoints": 130,
     "tags": ["database", "optimization", "performance"],
-    "projects": ["DB Optimization", "Query Tuning"],
-    "modifiedBy": "admin03"
+    "projects": ["DB Optimization", "Query Tuning"]
   },
   {
     "name": "Sanya Gupta",
@@ -42,10 +36,8 @@
     "ideasSubmitted": 8,
     "mentoring": 7,
     "complexSolutionsImplemented": 4,
-    "totalPoints": 155,
     "tags": ["innovation", "microservices", "API"],
-    "projects": ["API Gateway", "Microservices Architecture"],
-    "modifiedBy": "admin04"
+    "projects": ["API Gateway", "Microservices Architecture"]
   },
   {
     "name": "Anjali Mehta",
@@ -54,10 +46,8 @@
     "ideasSubmitted": 5,
     "mentoring": 5,
     "complexSolutionsImplemented": 6,
-    "totalPoints": 140,
     "tags": ["security", "compliance", "automation"],
-    "projects": ["Security Audit", "Compliance Tracker"],
-    "modifiedBy": "admin05"
+    "projects": ["Security Audit", "Compliance Tracker"]
   },
   {
     "name": "Vikram Reddy",
@@ -66,10 +56,8 @@
     "ideasSubmitted": 10,
     "mentoring": 3,
     "complexSolutionsImplemented": 8,
-    "totalPoints": 180,
     "tags": ["full-stack", "agile", "devops"],
-    "projects": ["Cloud Migration", "CI/CD Pipeline"],
-    "modifiedBy": "admin06"
+    "projects": ["Cloud Migration", "CI/CD Pipeline"]
   },
   {
     "name": "Suresh Iyer",
@@ -78,10 +66,8 @@
     "ideasSubmitted": 6,
     "mentoring": 4,
     "complexSolutionsImplemented": 5,
-    "totalPoints": 135,
     "tags": ["integration", "APIs", "testing"],
-    "projects": ["Integration Suite", "API Testing"],
-    "modifiedBy": "admin07"
+    "projects": ["Integration Suite", "API Testing"]
   },
   {
     "name": "Deepa Nair",
@@ -90,10 +76,8 @@
     "ideasSubmitted": 7,
     "mentoring": 6,
     "complexSolutionsImplemented": 4,
-    "totalPoints": 150,
     "tags": ["UX", "design", "product"],
-    "projects": ["UI Overhaul", "Design Sprint"],
-    "modifiedBy": "admin08"
+    "projects": ["UI Overhaul", "Design Sprint"]
   },
   {
     "name": "Rajesh Patel",
@@ -102,10 +86,8 @@
     "ideasSubmitted": 5,
     "mentoring": 3,
     "complexSolutionsImplemented": 7,
-    "totalPoints": 140,
     "tags": ["backend", "performance", "scalability"],
-    "projects": ["System Scalability", "Backend Refactor"],
-    "modifiedBy": "admin09"
+    "projects": ["System Scalability", "Backend Refactor"]
   },
   {
     "name": "Kavita Joshi",
@@ -114,10 +96,8 @@
     "ideasSubmitted": 8,
     "mentoring": 5,
     "complexSolutionsImplemented": 6,
-    "totalPoints": 160,
     "tags": ["analytics", "data", "machine learning"],
-    "projects": ["Data Analytics", "ML Model"],
-    "modifiedBy": "admin10"
+    "projects": ["Data Analytics", "ML Model"]
   },
   {
     "name": "Arun Verma",
@@ -126,10 +106,8 @@
     "ideasSubmitted": 4,
     "mentoring": 7,
     "complexSolutionsImplemented": 5,
-    "totalPoints": 135,
     "tags": ["cloud", "automation", "devops"],
-    "projects": ["Cloud Automation", "DevOps Tools"],
-    "modifiedBy": "admin11"
+    "projects": ["Cloud Automation", "DevOps Tools"]
   },
   {
     "name": "Rita Chatterjee",
@@ -138,10 +116,8 @@
     "ideasSubmitted": 9,
     "mentoring": 4,
     "complexSolutionsImplemented": 8,
-    "totalPoints": 170,
     "tags": ["security", "network", "infrastructure"],
-    "projects": ["Network Security", "Infrastructure Upgrade"],
-    "modifiedBy": "admin12"
+    "projects": ["Network Security", "Infrastructure Upgrade"]
   },
   {
     "name": "Manoj Dubey",
@@ -150,10 +126,8 @@
     "ideasSubmitted": 6,
     "mentoring": 5,
     "complexSolutionsImplemented": 7,
-    "totalPoints": 150,
     "tags": ["testing", "automation", "quality"],
-    "projects": ["QA Automation", "Performance Testing"],
-    "modifiedBy": "admin13"
+    "projects": ["QA Automation", "Performance Testing"]
   },
   {
     "name": "Sunita Rao",
@@ -162,10 +136,8 @@
     "ideasSubmitted": 5,
     "mentoring": 6,
     "complexSolutionsImplemented": 4,
-    "totalPoints": 140,
     "tags": ["frontend", "design", "ux"],
-    "projects": ["UI Redesign", "User Experience"],
-    "modifiedBy": "admin14"
+    "projects": ["UI Redesign", "User Experience"]
   },
   {
     "name": "Vivek Agarwal",
@@ -174,10 +146,8 @@
     "ideasSubmitted": 7,
     "mentoring": 3,
     "complexSolutionsImplemented": 5,
-    "totalPoints": 145,
     "tags": ["full-stack", "innovation", "architecture"],
-    "projects": ["System Architecture", "Product Innovation"],
-    "modifiedBy": "admin15"
+    "projects": ["System Architecture", "Product Innovation"]
   },
   {
     "name": "Anand Bhatt",
@@ -186,10 +156,8 @@
     "ideasSubmitted": 8,
     "mentoring": 7,
     "complexSolutionsImplemented": 6,
-    "totalPoints": 165,
     "tags": ["database", "optimization", "security"],
-    "projects": ["DB Security", "Query Optimization"],
-    "modifiedBy": "admin16"
+    "projects": ["DB Security", "Query Optimization"]
   },
   {
     "name": "Meena Iyer",
@@ -198,10 +166,8 @@
     "ideasSubmitted": 6,
     "mentoring": 4,
     "complexSolutionsImplemented": 5,
-    "totalPoints": 140,
     "tags": ["analytics", "data", "visualization"],
-    "projects": ["Data Visualization", "Analytics Dashboard"],
-    "modifiedBy": "admin17"
+    "projects": ["Data Visualization", "Analytics Dashboard"]
   },
   {
     "name": "Siddharth Kapoor",
@@ -210,10 +176,8 @@
     "ideasSubmitted": 9,
     "mentoring": 4,
     "complexSolutionsImplemented": 7,
-    "totalPoints": 160,
     "tags": ["cloud", "microservices", "devops"],
-    "projects": ["Microservices Refactor", "Cloud Infrastructure"],
-    "modifiedBy": "admin18"
+    "projects": ["Microservices Refactor", "Cloud Infrastructure"]
   },
   {
     "name": "Pooja Sharma",
@@ -222,10 +186,8 @@
     "ideasSubmitted": 7,
     "mentoring": 5,
     "complexSolutionsImplemented": 6,
-    "totalPoints": 155,
     "tags": ["UI", "frontend", "design"],
-    "projects": ["User Interface", "Frontend Optimization"],
-    "modifiedBy": "admin19"
+    "projects": ["User Interface", "Frontend Optimization"]
   },
   {
     "name": "Karan Khanna",
@@ -234,9 +196,7 @@
     "ideasSubmitted": 10,
     "mentoring": 3,
     "complexSolutionsImplemented": 8,
-    "totalPoints": 175,
     "tags": ["innovation", "leadership", "strategy"],
-    "projects": ["Strategic Planning", "Innovation Lab"],
-    "modifiedBy": "admin20"
+    "projects": ["Strategic Planning", "Innovation Lab"]
   }
 ]
