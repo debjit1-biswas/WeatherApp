@@ -198,5 +198,105 @@
     "complexSolutionsImplemented": 8,
     "tags": ["innovation", "leadership", "strategy"],
     "projects": ["Strategic Planning", "Innovation Lab"]
+  },
+  {
+    "name": "Shalini Desai",
+    "gitUserId": "shaliniD80",
+    "enterpriseId": "shalini.desai",
+    "ideasSubmitted": 8,
+    "mentoring": 6,
+    "complexSolutionsImplemented": 5,
+    "tags": ["product", "strategy", "marketing"],
+    "projects": ["Market Analysis", "Brand Positioning"]
+  },
+  {
+    "name": "Aparna Rao",
+    "gitUserId": "aparnaR77",
+    "enterpriseId": "aparna.rao",
+    "ideasSubmitted": 7,
+    "mentoring": 5,
+    "complexSolutionsImplemented": 4,
+    "tags": ["UI", "UX", "design"],
+    "projects": ["Interface Redesign", "User Testing"]
+  },
+  {
+    "name": "Kunal Joshi",
+    "gitUserId": "kunalJ66",
+    "enterpriseId": "kunal.joshi",
+    "ideasSubmitted": 6,
+    "mentoring": 4,
+    "complexSolutionsImplemented": 6,
+    "tags": ["full-stack", "web", "innovation"],
+    "projects": ["Platform Upgrade", "Feature Rollout"]
+  },
+  {
+    "name": "Rakesh Verma",
+    "gitUserId": "rakeshV55",
+    "enterpriseId": "rakesh.verma",
+    "ideasSubmitted": 9,
+    "mentoring": 7,
+    "complexSolutionsImplemented": 5,
+    "tags": ["backend", "performance", "scalability"],
+    "projects": ["Load Balancing", "Server Optimization"]
+  },
+  {
+    "name": "Sneha Patel",
+    "gitUserId": "snehaP44",
+    "enterpriseId": "sneha.patel",
+    "ideasSubmitted": 8,
+    "mentoring": 5,
+    "complexSolutionsImplemented": 4,
+    "tags": ["analytics", "data", "insights"],
+    "projects": ["Data Mining", "Dashboard Development"]
+  },
+  {
+    "name": "Harshad Mehta",
+    "gitUserId": "harshadM33",
+    "enterpriseId": "harshad.mehta",
+    "ideasSubmitted": 7,
+    "mentoring": 4,
+    "complexSolutionsImplemented": 6,
+    "tags": ["automation", "testing", "quality"],
+    "projects": ["Automated Testing", "CI Integration"]
+  },
+  {
+    "name": "Divya Reddy",
+    "gitUserId": "divyaR22",
+    "enterpriseId": "divya.reddy",
+    "ideasSubmitted": 6,
+    "mentoring": 7,
+    "complexSolutionsImplemented": 5,
+    "tags": ["mobile", "UX", "design"],
+    "projects": ["App Redesign", "User Feedback"]
+  },
+  {
+    "name": "Gaurav Sharma",
+    "gitUserId": "gauravS11",
+    "enterpriseId": "gaurav.sharma",
+    "ideasSubmitted": 9,
+    "mentoring": 3,
+    "complexSolutionsImplemented": 7,
+    "tags": ["devops", "cloud", "automation"],
+    "projects": ["Infrastructure as Code", "Deployment Pipeline"]
+  },
+  {
+    "name": "Ishita Singh",
+    "gitUserId": "ishitaS00",
+    "enterpriseId": "ishita.singh",
+    "ideasSubmitted": 7,
+    "mentoring": 5,
+    "complexSolutionsImplemented": 6,
+    "tags": ["frontend", "performance", "optimization"],
+    "projects": ["UI Optimization", "Code Refactoring"]
+  },
+  {
+    "name": "Manish Kumar",
+    "gitUserId": "manishK99",
+    "enterpriseId": "manish.kumar",
+    "ideasSubmitted": 8,
+    "mentoring": 4,
+    "complexSolutionsImplemented": 7,
+    "tags": ["full-stack", "architecture", "innovation"],
+    "projects": ["System Redesign", "Tech Innovation"]
   }
 ]
