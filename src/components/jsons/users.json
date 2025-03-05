@@ -1,8 +1,6 @@
 [
   {
-    "name": "Rahul Sharma",
-    "gitUserId": "rahulS90",
-    "enterpriseId": "rahul.sharma",
+    "gitUserId": "aaronrumao",
     "ideasSubmitted": 7,
     "mentoring": 4,
     "complexSolutionsImplemented": 5,
@@ -10,9 +8,7 @@
     "projects": ["Project Nimbus", "Data Integration"]
   },
   {
-    "name": "Priya Singh",
-    "gitUserId": "priyaS88",
-    "enterpriseId": "priya.singh",
+    "gitUserId": "abhish251k",
     "ideasSubmitted": 9,
     "mentoring": 5,
     "complexSolutionsImplemented": 7,
@@ -20,9 +16,7 @@
     "projects": ["Web Revamp", "Mobile App"]
   },
   {
-    "name": "Amit Kumar",
-    "gitUserId": "amitK77",
-    "enterpriseId": "amit.kumar",
+    "gitUserId": "acn-prabal-tiwari",
     "ideasSubmitted": 4,
     "mentoring": 6,
     "complexSolutionsImplemented": 3,
@@ -30,9 +24,7 @@
     "projects": ["DB Optimization", "Query Tuning"]
   },
   {
-    "name": "Sanya Gupta",
-    "gitUserId": "sanyaG66",
-    "enterpriseId": "sanya.gupta",
+    "gitUserId": "adityaraj22",
     "ideasSubmitted": 8,
     "mentoring": 7,
     "complexSolutionsImplemented": 4,
@@ -40,9 +32,7 @@
     "projects": ["API Gateway", "Microservices Architecture"]
   },
   {
-    "name": "Anjali Mehta",
-    "gitUserId": "anjaliM55",
-    "enterpriseId": "anjali.mehta",
+    "gitUserId": "AnandPratyush",
     "ideasSubmitted": 5,
     "mentoring": 5,
     "complexSolutionsImplemented": 6,
@@ -50,9 +40,7 @@
     "projects": ["Security Audit", "Compliance Tracker"]
   },
   {
-    "name": "Vikram Reddy",
-    "gitUserId": "vikramR44",
-    "enterpriseId": "vikram.reddy",
+    "gitUserId": "AniketBob",
     "ideasSubmitted": 10,
     "mentoring": 3,
     "complexSolutionsImplemented": 8,
@@ -60,9 +48,7 @@
     "projects": ["Cloud Migration", "CI/CD Pipeline"]
   },
   {
-    "name": "Suresh Iyer",
-    "gitUserId": "sureshI33",
-    "enterpriseId": "suresh.iyer",
+    "gitUserId": "arshu431",
     "ideasSubmitted": 6,
     "mentoring": 4,
     "complexSolutionsImplemented": 5,
@@ -70,9 +56,7 @@
     "projects": ["Integration Suite", "API Testing"]
   },
   {
-    "name": "Deepa Nair",
-    "gitUserId": "deepaN22",
-    "enterpriseId": "deepa.nair",
+    "gitUserId": "ashishpanwar18",
     "ideasSubmitted": 7,
     "mentoring": 6,
     "complexSolutionsImplemented": 4,
@@ -80,9 +64,7 @@
     "projects": ["UI Overhaul", "Design Sprint"]
   },
   {
-    "name": "Rajesh Patel",
-    "gitUserId": "rajeshP11",
-    "enterpriseId": "rajesh.patel",
+    "gitUserId": "avanishmishra25",
     "ideasSubmitted": 5,
     "mentoring": 3,
     "complexSolutionsImplemented": 7,
@@ -90,213 +72,11 @@
     "projects": ["System Scalability", "Backend Refactor"]
   },
   {
-    "name": "Kavita Joshi",
-    "gitUserId": "kavitaJ99",
-    "enterpriseId": "kavita.joshi",
+    "gitUserId": "debjit1-biswas",
     "ideasSubmitted": 8,
     "mentoring": 5,
     "complexSolutionsImplemented": 6,
     "tags": ["analytics", "data", "machine learning"],
     "projects": ["Data Analytics", "ML Model"]
-  },
-  {
-    "name": "Arun Verma",
-    "gitUserId": "arunV88",
-    "enterpriseId": "arun.verma",
-    "ideasSubmitted": 4,
-    "mentoring": 7,
-    "complexSolutionsImplemented": 5,
-    "tags": ["cloud", "automation", "devops"],
-    "projects": ["Cloud Automation", "DevOps Tools"]
-  },
-  {
-    "name": "Rita Chatterjee",
-    "gitUserId": "ritaC77",
-    "enterpriseId": "rita.chatterjee",
-    "ideasSubmitted": 9,
-    "mentoring": 4,
-    "complexSolutionsImplemented": 8,
-    "tags": ["security", "network", "infrastructure"],
-    "projects": ["Network Security", "Infrastructure Upgrade"]
-  },
-  {
-    "name": "Manoj Dubey",
-    "gitUserId": "manojD66",
-    "enterpriseId": "manoj.dubey",
-    "ideasSubmitted": 6,
-    "mentoring": 5,
-    "complexSolutionsImplemented": 7,
-    "tags": ["testing", "automation", "quality"],
-    "projects": ["QA Automation", "Performance Testing"]
-  },
-  {
-    "name": "Sunita Rao",
-    "gitUserId": "sunitaR55",
-    "enterpriseId": "sunita.rao",
-    "ideasSubmitted": 5,
-    "mentoring": 6,
-    "complexSolutionsImplemented": 4,
-    "tags": ["frontend", "design", "ux"],
-    "projects": ["UI Redesign", "User Experience"]
-  },
-  {
-    "name": "Vivek Agarwal",
-    "gitUserId": "vivekA44",
-    "enterpriseId": "vivek.agarwal",
-    "ideasSubmitted": 7,
-    "mentoring": 3,
-    "complexSolutionsImplemented": 5,
-    "tags": ["full-stack", "innovation", "architecture"],
-    "projects": ["System Architecture", "Product Innovation"]
-  },
-  {
-    "name": "Anand Bhatt",
-    "gitUserId": "anandB33",
-    "enterpriseId": "anand.bhatt",
-    "ideasSubmitted": 8,
-    "mentoring": 7,
-    "complexSolutionsImplemented": 6,
-    "tags": ["database", "optimization", "security"],
-    "projects": ["DB Security", "Query Optimization"]
-  },
-  {
-    "name": "Meena Iyer",
-    "gitUserId": "meenaI22",
-    "enterpriseId": "meena.iyer",
-    "ideasSubmitted": 6,
-    "mentoring": 4,
-    "complexSolutionsImplemented": 5,
-    "tags": ["analytics", "data", "visualization"],
-    "projects": ["Data Visualization", "Analytics Dashboard"]
-  },
-  {
-    "name": "Siddharth Kapoor",
-    "gitUserId": "siddharthK11",
-    "enterpriseId": "siddharth.kapoor",
-    "ideasSubmitted": 9,
-    "mentoring": 4,
-    "complexSolutionsImplemented": 7,
-    "tags": ["cloud", "microservices", "devops"],
-    "projects": ["Microservices Refactor", "Cloud Infrastructure"]
-  },
-  {
-    "name": "Pooja Sharma",
-    "gitUserId": "poojaS00",
-    "enterpriseId": "pooja.sharma",
-    "ideasSubmitted": 7,
-    "mentoring": 5,
-    "complexSolutionsImplemented": 6,
-    "tags": ["UI", "frontend", "design"],
-    "projects": ["User Interface", "Frontend Optimization"]
-  },
-  {
-    "name": "Karan Khanna",
-    "gitUserId": "karanK99",
-    "enterpriseId": "karan.khanna",
-    "ideasSubmitted": 10,
-    "mentoring": 3,
-    "complexSolutionsImplemented": 8,
-    "tags": ["innovation", "leadership", "strategy"],
-    "projects": ["Strategic Planning", "Innovation Lab"]
-  },
-  {
-    "name": "Shalini Desai",
-    "gitUserId": "shaliniD80",
-    "enterpriseId": "shalini.desai",
-    "ideasSubmitted": 8,
-    "mentoring": 6,
-    "complexSolutionsImplemented": 5,
-    "tags": ["product", "strategy", "marketing"],
-    "projects": ["Market Analysis", "Brand Positioning"]
-  },
-  {
-    "name": "Aparna Rao",
-    "gitUserId": "aparnaR77",
-    "enterpriseId": "aparna.rao",
-    "ideasSubmitted": 7,
-    "mentoring": 5,
-    "complexSolutionsImplemented": 4,
-    "tags": ["UI", "UX", "design"],
-    "projects": ["Interface Redesign", "User Testing"]
-  },
-  {
-    "name": "Kunal Joshi",
-    "gitUserId": "kunalJ66",
-    "enterpriseId": "kunal.joshi",
-    "ideasSubmitted": 6,
-    "mentoring": 4,
-    "complexSolutionsImplemented": 6,
-    "tags": ["full-stack", "web", "innovation"],
-    "projects": ["Platform Upgrade", "Feature Rollout"]
-  },
-  {
-    "name": "Rakesh Verma",
-    "gitUserId": "rakeshV55",
-    "enterpriseId": "rakesh.verma",
-    "ideasSubmitted": 9,
-    "mentoring": 7,
-    "complexSolutionsImplemented": 5,
-    "tags": ["backend", "performance", "scalability"],
-    "projects": ["Load Balancing", "Server Optimization"]
-  },
-  {
-    "name": "Sneha Patel",
-    "gitUserId": "snehaP44",
-    "enterpriseId": "sneha.patel",
-    "ideasSubmitted": 8,
-    "mentoring": 5,
-    "complexSolutionsImplemented": 4,
-    "tags": ["analytics", "data", "insights"],
-    "projects": ["Data Mining", "Dashboard Development"]
-  },
-  {
-    "name": "Harshad Mehta",
-    "gitUserId": "harshadM33",
-    "enterpriseId": "harshad.mehta",
-    "ideasSubmitted": 7,
-    "mentoring": 4,
-    "complexSolutionsImplemented": 6,
-    "tags": ["automation", "testing", "quality"],
-    "projects": ["Automated Testing", "CI Integration"]
-  },
-  {
-    "name": "Divya Reddy",
-    "gitUserId": "divyaR22",
-    "enterpriseId": "divya.reddy",
-    "ideasSubmitted": 6,
-    "mentoring": 7,
-    "complexSolutionsImplemented": 5,
-    "tags": ["mobile", "UX", "design"],
-    "projects": ["App Redesign", "User Feedback"]
-  },
-  {
-    "name": "Gaurav Sharma",
-    "gitUserId": "gauravS11",
-    "enterpriseId": "gaurav.sharma",
-    "ideasSubmitted": 9,
-    "mentoring": 3,
-    "complexSolutionsImplemented": 7,
-    "tags": ["devops", "cloud", "automation"],
-    "projects": ["Infrastructure as Code", "Deployment Pipeline"]
-  },
-  {
-    "name": "Ishita Singh",
-    "gitUserId": "ishitaS00",
-    "enterpriseId": "ishita.singh",
-    "ideasSubmitted": 7,
-    "mentoring": 5,
-    "complexSolutionsImplemented": 6,
-    "tags": ["frontend", "performance", "optimization"],
-    "projects": ["UI Optimization", "Code Refactoring"]
-  },
-  {
-    "name": "Manish Kumar",
-    "gitUserId": "manishK99",
-    "enterpriseId": "manish.kumar",
-    "ideasSubmitted": 8,
-    "mentoring": 4,
-    "complexSolutionsImplemented": 7,
-    "tags": ["full-stack", "architecture", "innovation"],
-    "projects": ["System Redesign", "Tech Innovation"]
   }
 ]
